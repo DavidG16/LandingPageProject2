@@ -51,7 +51,7 @@ navList.addEventListener('click', e => {
   e.preventDefault();
   const parent = e.target.hasAttribute('data-link') ? e.target : e.target.parentElement;
   const elementToScrollTo = document.getElementById(parent.dataset.link);
-  elementToScrollTo.scrollIntoView({block: 'end', behavior: 'smooth'})
+  elementToScrollTo.scrollIntoView({block: 'start', behavior: 'smooth'})
 });
 
 // Set section and nav link as active using the IntersectionObserver pattern
