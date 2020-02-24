@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8356067-a81f-4bdb-b5ed-b2640e8f2f4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582477374293</updated>
-      <workItem from="1582477377198" duration="12048000" />
+      <workItem from="1582477377198" duration="12546000" />
     </task>
     <servers />
   </component>
@@ -61,6 +60,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1600" y="-1105" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582506039531">
+      <screen x="-623" y="-1777" width="3200" height="1752" />
+    </state>
+    <state x="1600" y="-1105" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.1027/-623.-1777.3200.1752@-623.-1777.3200.1752" timestamp="1582506039530" />
     <state x="1305" y="-1681" width="824" height="796" key="find.popup" timestamp="1582502303635">
       <screen x="-623" y="-1777" width="3200" height="1752" />
     </state>

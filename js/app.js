@@ -92,6 +92,7 @@ navElements.forEach(element => {
 });
 
 
+// Create new section when click me is pushed
 const button = document.querySelector('.btn');
 
 button.addEventListener('click', () => {
